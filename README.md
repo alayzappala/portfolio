@@ -22,6 +22,13 @@
 Participación como mentor en [VISUALIZAR'17](http://medialab-prado.es/article/visualizar17-migraciones)
 
 ---
+### Introducción a los Sistemas de Información Geográfica
+
+[![imagen](./images/cursoperiodismodedatosCatedraGovernObert_600.jpg)]()
+
+Introducción a los Sistemas de Información Geográfica en curso periodismo de datos **Cátedra Govern Obert**
+
+---
 
 ### Diagnóstico de accesibilidad urbana Tetuán
 
@@ -33,9 +40,12 @@ Participación como mentor en [VISUALIZAR'17](http://medialab-prado.es/article/v
 
 ### Jornadas de Periodismo de Datos 2017: cada dato cuenta
 
-[![Cartel de presentación del evento Visualizar 16](./images/jpd17_600.jpg)](http://medialab-prado.es/article/jornadas-de-periodismo-de-datos-2017-jpd17-cada-dato-cuenta)
+[![Cartel de presentación de las Jornadas de Periodismo de Datos 2017](./images/jpd17_600.jpg)](https://medialab-prado.github.io/tpd17/)
 
-Participación en las [Jornadas de Periodismo de datos 2017](http://medialab-prado.es/article/jornadas-de-periodismo-de-datos-2017-jpd17-cada-dato-cuenta) como ponente: [enlace a la presentación](http://alejandrozappala.com/presentacion/cartography/), además de apoyo técnico a los participantes del [V Taller de periodismo de datos](http://medialab-prado.es/article/visualizar16-ciudades-abiertas-open-cities)
+Participación en las [Jornadas de Periodismo de datos 2017](http://medialab-prado.es/article/jornadas-de-periodismo-de-datos-2017-jpd17-cada-dato-cuenta)
+
++ como ponente: [enlace a la presentación](http://alejandrozappala.com/presentacion/cartography/)
++ Apoyo técnico a los [proyectos](https://medialab-prado.github.io/tpd17/)
 
 ---
 ### Cursos Avanzados E.Torroja 2016
@@ -97,8 +107,6 @@ Participación como apoyo técnico en [VISUALIZAR'16](http://medialab-prado.es/a
 2014, Tres Mapas con la información de todo el litoral español indicando su accesibilidad
 
 ---
-
-
 
 ### Parking Reservado en Madrid
 
