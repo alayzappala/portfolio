@@ -1,11 +1,29 @@
 # Alejandro Zappala
-## Geospatial Data Product Management
+## Geographic Data Product Management
 
 [@alayzappala](https://twitter.com/alayzappala)
 
 ---
 
 ## Portfolio
+
+###  Taller de Periodismo de Datos 2018: los ODS relacionados con el cambio climático en Madrid.
+
+[![Imagen de difusión de los talleres](./images/tpd18_600.jpg)](https://www.medialab-prado.es/noticias/taller-de-periodismo-de-datos-2018-los-ods-relacionados-con-el-cambio-climatico-en-madrid)
+
+El Taller de Periodismo de Datos alcanzó su sexta edición en 2018 y amplió su duración hasta las cinco sesiones para desarrollar historias basadas en datos centradas en los [Objetivos de Desarrollo Sostenible (ODS)](http://www.undp.org/content/undp/es/home/sustainable-development-goals.html) relacionados con la lucha contra el cambio climático en Madrid (ciudad, comunidad, región, área…).
+
+- Apoyo técnico a los proyectos
+
+---
+
+### Introducción a los Sistemas de Información Geográfica
+
+![Imagen de difusión](./images/180621_poster_online.jpg)
+
+Taller introductorio de Análisis de Datos con SIG en colaboración con [Tech Business 3.0](https://www.meetup.com/es-ES/Tech-Business-3-punto-0/)
+
+---
 
 ### Datamad 2017
 
@@ -168,7 +186,6 @@ Para mantenerme en forma, quedo una vez por semana para tocar la guitarra con lo
 
 ### Cartografía
 
-+ Partnership con www.cartodb.com (ADAPPgeo)
 + Asesoría, Project Management y Desarrollo de productos cartográficos online (Web Mapping) e impresos
 + Bases de Datos. PostGres, PostGIS, SQL, MySQL
 + Sistemas de Información Geográfica. ArcGIS, QGIS, gvSIG
